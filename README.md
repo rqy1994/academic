@@ -1,2 +1,2 @@
 # academic
-Login academic and get some data.
+Login academic system and get some data.
